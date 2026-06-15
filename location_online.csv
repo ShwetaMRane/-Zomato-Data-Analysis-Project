@@ -1,0 +1,63 @@
+location,online_order,name
+BTM,No,267
+BTM,Yes,1193
+Banashankari,No,103
+Banashankari,Yes,287
+Bannerghatta Road,No,112
+Bannerghatta Road,Yes,385
+Bellandur,No,110
+Bellandur,Yes,352
+Brigade Road,No,225
+Brigade Road,Yes,345
+Brookefield,No,61
+Brookefield,Yes,246
+Church Street,No,191
+Church Street,Yes,317
+Cunningham Road,No,62
+Cunningham Road,Yes,271
+Electronic City,No,98
+Electronic City,Yes,229
+HSR,No,151
+HSR,Yes,1011
+Indiranagar,No,398
+Indiranagar,Yes,952
+JP Nagar,No,311
+JP Nagar,Yes,714
+Jayanagar,No,205
+Jayanagar,Yes,842
+Kalyan Nagar,No,126
+Kalyan Nagar,Yes,341
+Koramangala 1st Block,No,57
+Koramangala 1st Block,Yes,410
+Koramangala 4th Block,No,254
+Koramangala 4th Block,Yes,390
+Koramangala 5th Block,No,554
+Koramangala 5th Block,Yes,1230
+Koramangala 6th Block,No,231
+Koramangala 6th Block,Yes,489
+Koramangala 7th Block,No,198
+Koramangala 7th Block,Yes,527
+Lavelle Road,No,254
+Lavelle Road,Yes,191
+MG Road,No,321
+MG Road,Yes,275
+Malleshwaram,No,126
+Malleshwaram,Yes,240
+Marathahalli,No,161
+Marathahalli,Yes,522
+New BEL Road,No,64
+New BEL Road,Yes,239
+Residency Road,No,267
+Residency Road,Yes,175
+Richmond Road,No,202
+Richmond Road,Yes,149
+Sarjapur Road,No,109
+Sarjapur Road,Yes,347
+St. Marks Road,No,137
+St. Marks Road,Yes,167
+Ulsoor,No,170
+Ulsoor,Yes,307
+Whitefield,No,264
+Whitefield,Yes,560
+others,No,1057
+others,Yes,2673
